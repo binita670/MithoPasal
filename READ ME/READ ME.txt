@@ -1,0 +1,15 @@
+Copy the folder mithopasal to xampp htdocs folder.
+
+Start you xampp server and import database from phpmyadmin dashboard.
+
+Visit the site at localhost/mithopasal
+
+
+Login Details:
+
+    User:
+        username: axel1234   ,   password: axel1234
+        username: rebica1234  ,  password: rebica1234
+
+    Admin:
+        username: admin1234    ,  password: admin1234
