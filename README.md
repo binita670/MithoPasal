@@ -1,5 +1,7 @@
 # MithoPasal
 
+This app is created using html, bootstrap and php.
+
 Copy the folder mithopasal to xampp htdocs folder.
 
 Start you xampp server and import database from phpmyadmin dashboard.
